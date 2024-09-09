@@ -1,3 +1,4 @@
 homeassistant/home-assistant:latest
 homeassistant/home-assistant:2024.8.3
+homeassistant/amd64-hassio-cli:latest
 
