@@ -2,4 +2,5 @@ homeassistant/home-assistant:latest
 homeassistant/home-assistant:2024.8.3
 homeassistant/amd64-hassio-cli:latest
 ghcr.nju.edu.cn/home-assistant/amd64-hassio-cli
+homeassistant/amd64-addon-dev-remote_api:1.3.0
 
