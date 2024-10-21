@@ -1,4 +1,4 @@
-ghcr.io/home-assistant/qemux86-64-homeassistant:2024.9.0
-ghcr.io/home-assistant/qemux86-64-homeassistant:2024.9.1
-ghcr.io/home-assistant/qemux86-64-homeassistant:2024.9.2
-ghcr.io/home-assistant/qemux86-64-homeassistant:2024.9.3
+ghcr.io/home-assistant/qemux86-64-homeassistant:2024.10.0
+ghcr.io/home-assistant/qemux86-64-homeassistant:2024.10.1
+ghcr.io/home-assistant/qemux86-64-homeassistant:2024.10.2
+ghcr.io/home-assistant/qemux86-64-homeassistant:2024.10.3
