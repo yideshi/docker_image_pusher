@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/qemux86-64-homeassistant:2024.8.1
+ghcr.io/home-assistant/qemux86-64-homeassistant:2024.8.3
