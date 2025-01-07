@@ -1,5 +1,5 @@
-ghcr.io/tiyicn/amd64-hassio-supervisor:2024.12.2
-ghcr.io/tiyicn/aarch64-hassio-supervisor:2024.12.2
-ghcr.io/tiyicn/armv7-hassio-supervisor:2024.12.2
-ghcr.io/tiyicn/i386-hassio-supervisor:2024.12.2
-ghcr.io/tiyicn/armhf-hassio-supervisor:2024.12.2
+ghcr.io/tiyicn/amd64-hassio-supervisor:2024.12.3
+ghcr.io/tiyicn/aarch64-hassio-supervisor:2024.12.3
+ghcr.io/tiyicn/armv7-hassio-supervisor:2024.12.3
+ghcr.io/tiyicn/i386-hassio-supervisor:2024.12.3
+ghcr.io/tiyicn/armhf-hassio-supervisor:2024.12.3
